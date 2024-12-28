@@ -1,0 +1,2 @@
+install all the dependences using
+pip intall -r requirements.txt
